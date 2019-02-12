@@ -16,3 +16,10 @@ a{
     max-height: 20%;
     border : 7px solid black;
 }
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+.lista-linha li{
+    display: inline-block;
+}
