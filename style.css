@@ -2,6 +2,7 @@
     color: #f5f6fa;
     text-align: center;
     margin-top: 7%;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body{
@@ -22,4 +23,7 @@ a{
 }
 .lista-linha li{
     display: inline-block;
+}
+.espaco-icone{
+    margin-left: 5%;
 }
